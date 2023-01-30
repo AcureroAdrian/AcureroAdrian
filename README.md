@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Adrian Acurero</h1>
 <h3 align="center">Proud full-stack developer from Venezuela</h3>
 
-- 👨‍💻 More than two years programming **Starting wiht Java - Currently with TypeScript**
+- 👨‍💻 More than two years programming
 
 - 🌱 I’m currently learning **React Native && English**
 
